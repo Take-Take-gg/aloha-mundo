@@ -7,7 +7,7 @@ namespace ufff_c_shard
         static void Main(string[] args)
         {
             Console.WriteLine("a eleo mundo");
-            Console.WriteLine("-----"); Console.Write("jjsjs");
+            Console.WriteLine("-----"); Console.Write("hola que tal");
         }
     }
 }
